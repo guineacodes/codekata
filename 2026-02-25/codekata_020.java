@@ -25,3 +25,5 @@ class Solution {
         return "";
     }
 }
+
+//문자열 비교는 항상: a.equals(b)
